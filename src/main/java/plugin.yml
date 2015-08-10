@@ -1,3 +1,7 @@
 name: GaldurProtections
 main: com.github.inclusiverec.galdurprotections.GaldurProtections
 version: 1.0.0-SNAPSHOT
+commands:
+  build:
+    description: Used for creating protected areas.
+    usage: "Type /build help for information on the building process."
