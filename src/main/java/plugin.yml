@@ -1,5 +1,5 @@
-name: GaldurProtections
-main: com.github.inclusiverec.galdurprotections.GaldurProtections
+name: ProtectGaldur
+main: com.github.inclusiverec.protectgaldur.ProtectGaldur
 version: 1.0.0-SNAPSHOT
 commands:
   build:
